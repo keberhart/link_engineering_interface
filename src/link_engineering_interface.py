@@ -112,7 +112,6 @@ class Device():
         return f"Device(name={self.name})"
 
 
-
 class Project():
     """A class to represent a project."""
     def __init__(self, json_data):
