@@ -14,3 +14,8 @@ tkinter = "*"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.0.0"
+
+[tool.pytest.ini]
+pythonpath = "src"
+addopts = ["--import-mode=importlib"]
+
