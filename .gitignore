@@ -68,3 +68,13 @@ target/
 
 # Local preferences
 preferences.json
+
+# pytest.ini
+pytest.ini
+.pytest_cache/
+
+# gitignore file for the project root directory
+.gitignore
+
+# VSCode settings and tasks
+.vscode/
