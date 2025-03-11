@@ -1,4 +1,0 @@
-[submodule "src/link_engineering"]
-	path = src/link_engineering
-	url = https://github.com/keberhart/link_engineering.git
-	branch = extending
