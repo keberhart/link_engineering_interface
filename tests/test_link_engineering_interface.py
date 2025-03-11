@@ -1,5 +1,4 @@
-import pytest
-from src.link_engineering_interface import LinkEngineeringInterface, PreferencesWindow
+from src.gui.link_engineering_interface import LinkEngineeringInterface, PreferencesWindow
 
 def test_link_engineering_interface():
     interface = LinkEngineeringInterface()

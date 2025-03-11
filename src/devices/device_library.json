@@ -82,7 +82,7 @@
         },
         "Attenuator": {
             "frequency_range": {
-                "min": 0.1,
+                "min": 0.2,
                 "max": 10,
                 "units": "GHz"
             },
@@ -91,9 +91,16 @@
                 "unit": "dB"
             }
         },
-        "Cows": {
-            "Dairy": "Holstein",
-            "Meat": "Angus"
+        "glue": {
+            "hoof": "horse"
+        },
+        "fasdf": {
+            "asdf": "asdfasdf",
+            "asdfas": {
+                "asdfsad": {
+                    "asdf": "asdfsadf"
+                }
+            }
         }
     }
 }
